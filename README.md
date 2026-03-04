@@ -1,4 +1,17 @@
-## Hi there 👋
+Hi, I'm Xian.
+
+I'm interested in systems, machine learning infrastructure, and performance optimization.
+
+Recent work includes GPU-parallel algorithms for robotics control solvers, kernel scheduler experimentation, and low-latency ML inference systems.
+
+### Interests
+- Systems programming
+- Machine learning infrastructure
+- Distributed and high-performance computing
+- Hardware-aware ML systems
+
+### Contact
+- LinkedIn: https://www.linkedin.com/in/xian-jiang/
 
 <!--
 **jiangxian0613/jiangxian0613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
