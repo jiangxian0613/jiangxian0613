@@ -1,4 +1,4 @@
-Hi, I'm Xian.
+Hi, I'm Xian, an M.S. Computer Science student at Columbia University.
 
 I'm interested in systems, machine learning infrastructure, and performance optimization.
 
