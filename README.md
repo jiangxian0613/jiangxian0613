@@ -2,7 +2,7 @@ Hi, I'm Xian, an M.S. Computer Science student at Columbia University.
 
 I'm interested in systems, machine learning infrastructure, and performance optimization.
 
-Recent work includes GPU-parallel algorithms for robotics control solvers, kernel scheduler experimentation, and low-latency ML inference systems.
+Recent work includes GPU-parallel algorithms for robotics control solvers, kernel scheduler experimentation, and low-latency streaming ML inference pipelines.
 
 ### Interests
 - Systems programming
